@@ -28,22 +28,22 @@
 `praktikum-d8.py`
 
 *Tugas 1 : Dictionaries
-`Tugas Achmad Reza Pahlevi-231031097-Tugas Dictionaries`
+`Tugas Achmad Reza Pahlevi-231031097-Tugas Dictionaries.py`
 
 *Tugas 2 : Flowchart Bilangan Ganjil
-`Tugas Achmad Reza Pahlevi-231031097-Tugas Kelas D No 1`
+`Tugas Achmad Reza Pahlevi-231031097-Tugas Kelas D No 1.py`
 
 *Tugas 3 : Program Penjumlahan dan Selisih Waktu
-`Tugas Achmad Reza Pahlevi-231031097-Tugas Kelas D No 2`
+`Tugas Achmad Reza Pahlevi-231031097-Tugas Kelas D No 2.py`
 
 *Percabangan 1 : Batasan Nilai
-`Achmad Reza Pahlevi-231031097-Percabangan1`
+`Achmad Reza Pahlevi-231031097-Percabangan1.py`
 
 *Percabangan 2 : Panjang Str
-`Achmad Reza Pahlevi-231031097-Percabangan2`
+`Achmad Reza Pahlevi-231031097-Percabangan2.py`
 
 *Percabangan 3 : Batasan Pendapatan
-`Achmad Reza Pahlevi-231031097-Percabangan3`
+`Achmad Reza Pahlevi-231031097-Percabangan3.py`
 
 *Percabangan 4 : Persentase
-`Achmad Reza Pahlevi-231031097-Percabangan4`
+`Achmad Reza Pahlevi-231031097-Percabangan4.py`
