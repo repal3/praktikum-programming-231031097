@@ -3,8 +3,6 @@
 <p> Nim   : 231031097
 <p> Prodi : Sistem Informasi D </p>
 
-`Program Praktikum Mata Kuliah Pengantar Pemrograman`
-
 *praktikum 1 : Pengenalan Variabel
 `praktikum-d1.py`
 
